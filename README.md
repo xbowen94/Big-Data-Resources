@@ -24,6 +24,16 @@ Share my personal resources
 
 * 加州理工学院公开课：机器学习与数据挖掘 <http://v.163.com/special/opencourse/learningfromdata.html>
 
+# 会议
+
+### 数据挖掘
+
+* ACM SigKDD <http://www.kdd.org>
+
+* ICDM <http://icdm2015.stonybrook.edu/>
+
+* SIAM <http://www.siam.org/>
+
 
 ##QQ群
 
