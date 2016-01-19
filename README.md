@@ -111,6 +111,8 @@ Share my personal resources
 
 * PyMVPA <https://github.com/PyMVPA/PyMVPA>
 
+* TensorFlow <https://github.com/tensorflow/tensorflow>
+
 ## 博客
 
 * 周涛 <http://blog.sciencenet.cn/home.php?mod=space&uid=3075>
