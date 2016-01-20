@@ -24,6 +24,14 @@ Share my personal resources
 
 * 加州理工学院公开课：机器学习与数据挖掘 <http://v.163.com/special/opencourse/learningfromdata.html>
 
+* William Huang教授--BI和数据挖掘技术 <https://www.youtube.com/watch?v=gPm8SOJ1Nao>
+
+* Jingyuan Wang王静远-北航-机器学习工具在城市数据分析中的应用<https://www.youtube.com/watch?v=H2_BATE8uok>
+
+* Tensor Flow 介紹 (1/2)<https://www.youtube.com/watch?v=jA4Bh-xj_mE>
+
+* Tensor Flow 介紹 (2/2)<https://www.youtube.com/watch?v=YUCsOgkFqpk>
+
 # 会议
 
 ### 数据挖掘
@@ -155,6 +163,8 @@ Share my personal resources
 
 * 我爱自然语言处理 <http://www.52nlp.cn/>
 
+* 数据挖掘与数据分析<http://spss-market.r.blog.163.com/>
+
 
 ##文章
 
@@ -219,6 +229,8 @@ Share my personal resources
 * SVD 简介 <http://www.cnblogs.com/FengYan/archive/2012/05/06/2480664.html>
 
 * Netflix推荐系统：从评分预测到消费者法则 <http://blog.csdn.net/lzt1983/article/details/7696578>
+
+* 关于数据挖掘学习的讨论<https://www.zhihu.com/question/20751219>
 
 ## 论文
 
