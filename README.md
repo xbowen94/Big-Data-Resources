@@ -165,6 +165,10 @@ Share my personal resources
 
 * 数据挖掘与数据分析<http://spss-market.r.blog.163.com/>
 
+* 大数据技术博客<http://bigdata-blog.net>
+
+* 大数据相关概念<http://blog.chinaunix.net/uid-28437434-id-5582845.html>
+
 
 ##文章
 
