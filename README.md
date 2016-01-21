@@ -1005,7 +1005,8 @@ Share my personal resources
 * Rotten Tomatoes
 * Flixster
 * MTime
-
+＊MoneyBall
+＊Minority Report
 **音乐**
 
 * 豆瓣电台
